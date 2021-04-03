@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: 'Experience '
+    title: 'Experience digital services like '
     section_id: hero
   - section_id: features
     type: section_features
