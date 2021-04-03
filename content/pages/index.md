@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: '"company-name" is a '
+    title: '"company-name" '
   - section_id: features
     type: section_features
     background: gray
