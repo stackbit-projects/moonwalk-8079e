@@ -12,7 +12,6 @@ sections:
         url: /features
         style: primary
     section_id: hero
-    title: Introducing s
   - section_id: features
     type: section_features
     background: gray
