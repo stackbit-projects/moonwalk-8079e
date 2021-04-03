@@ -12,7 +12,7 @@ sections:
         url: /features
         style: primary
     section_id: hero
-    title: Software and digital production just got exciting
+    title: Software and digital production just got exciting.
   - section_id: features
     type: section_features
     background: gray
