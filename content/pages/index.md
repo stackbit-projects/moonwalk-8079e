@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: '"company-name" introduces software as a '
+    title: '"company-name" introduces software subscription'
   - section_id: features
     type: section_features
     background: gray
