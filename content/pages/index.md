@@ -12,7 +12,7 @@ sections:
         url: /features
         style: primary
     section_id: hero
-    title: 'Software and digital production just '
+    title: 'Software and digital production just got '
   - section_id: features
     type: section_features
     background: gray
