@@ -12,6 +12,7 @@ sections:
         url: /features
         style: primary
     title: Exper
+    section_id: hero
   - section_id: features
     type: section_features
     background: gray
